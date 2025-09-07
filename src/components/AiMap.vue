@@ -1,0 +1,1 @@
+<template><div>AI Map (Mock)</div></template>
